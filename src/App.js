@@ -6,7 +6,7 @@ import { faHome, faInfoCircle, faEnvelope } from '@fortawesome/free-solid-svg-ic
 import Home from './Home';
 import About from './About';
 import Contact from './Contact';
-import NotFound from './NotFound'; // Assuming a separate NotFound component
+import NotFound from './NotFound'; 
 
 const App = () => {
   return (
